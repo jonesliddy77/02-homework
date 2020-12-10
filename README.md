@@ -31,7 +31,7 @@ Main Features:
 
 ## Demo
 
-![Demo](assets/img/demo.mov)
+![Demo](assets/img/Jones'sResume.gif)
 
 ## Language
 
