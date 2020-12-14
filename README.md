@@ -1,5 +1,5 @@
 # Persona: Freelancer's Service
-
+![jones](https://img.shields.io/static/v1?label=<jones>&message=<new>&color=<black>) 
 ## Description
 
 This is my Resume. 
