@@ -30,7 +30,7 @@ Main Features:
 * GitHub Page: [Website](https://jonesliddy77.github.io/)
 
 ## Demo
-
+![Screen Shot](assets/img/screenshot.png)
 ![Demo](assets/img/JonesResume.gif)
 
 ## Language
