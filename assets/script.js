@@ -1,8 +1,8 @@
 
 const navSlide = () => {
   const mobleNav = document.querySelector(".mobleNav");
-  const nav = document.querySelector(".nav-links");
-  const navLinks = document.querySelectorAll(".nav-links li");
+  const nav = document.querySelector('.nav-links2');
+  const navLinks = document.querySelectorAll('.nav-links2 li');
   
   mobleNav.addEventListener("click", () => {
     //toggle nav
@@ -20,6 +20,7 @@ const navSlide = () => {
     mobleNav.classList.toggle("toggle");
   });
 };
+navSlide();
 AOS.init();
 
 // You can also pass an optional settings object
@@ -53,4 +54,3 @@ $(window).scroll(function () {
         $('.move').slideDown('slow'); // It's just if you want to show back the element if we're back on top
     }
 });
-navSlide();
